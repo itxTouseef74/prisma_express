@@ -41,7 +41,7 @@ To get a local copy up and running, follow these steps:
  Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/express-typescript-prisma.git
+https://github.com/itxTouseef74/prisma_express.git
 ```
 
  Navigate to the project directory
